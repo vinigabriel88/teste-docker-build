@@ -1,0 +1,6 @@
+{
+  "env": {
+    "environment": "sandbox",
+    "24-hrs-url" : "http://10.151.18.61:7000/v1/cashout"
+  }
+}

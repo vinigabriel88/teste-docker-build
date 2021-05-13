@@ -1,0 +1,47 @@
+{   
+    "headersLimites": {
+        "Content-Type": "application/json",
+        "consumer_id": ""
+    },
+    "headersAuthorization": {
+        "Accept-Encoding":"gzip",
+        "Android_id":"321d174d7a7520ef",
+        "App_version":"10.19.24",
+        "Connection":"Keep-Alive",
+        "Content-Type":"application/json; charset=UTF-8",
+        "Current_timestamp":"1600705697761",
+        "Device_id":"c6b7ee66-ca39-41df-bbf3-3a1ffdbe0b8b",
+        "Device_model":"Xiaomi",
+        "Device_os":"android",
+        "Gps_acc":"0.0",
+        "Installation_id":"c6b7ee66-ca39-41df-bbf3-3a1ffdbe0b8b",
+        "Latitude":"0.0",
+        "Location_timestamp":"0",
+        "Longitude":"0.0",
+        "Password":"215903",
+        "Selected_credit_card_id":"",
+        "Session_id":"",
+        "Timezone":"America/Belem",
+        "Token":"5ffee7acd7cb417ebbb2a745bd0ee555",
+        "Use_balance":"true",
+        "User-Agent":"okhttp/3.12.8",
+        "X-Breadcrumb":"MainFeedFragment,Tab Todos,Metodos de Pagamento,WalletHeaderBalanceFragment,WalletHeaderCreditFragment,WithdrawMainActivity,Metodos de Pagamento,WalletHeaderBalanceFragment,WalletHeaderCreditFragment,WithdrawMainActivity",
+        "X-Request-Id":"53ab2bc5-efb5-4f99-b44c-59b85e071a45",
+        "consumer_id":""
+    },
+    "bodyAuthorization": {
+        "qr_code": "",
+        "withdrawal_value": ""
+    },
+    "rotas": {
+        "authorization": "/authorization"
+    },
+    "data":{
+        "sandbox":{
+            "consumer_id": ""
+        },
+        "qa":{
+            "consumer_id": 26066450
+        }
+    }
+}

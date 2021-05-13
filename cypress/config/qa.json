@@ -1,0 +1,6 @@
+{
+  "env": {
+    "environment": "qa",
+    "24-hrs-url" : "http://cashout-24horas.ms.qa/v1/cashout"
+  }
+}
